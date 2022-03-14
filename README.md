@@ -8,9 +8,9 @@ The project report is in the pdf file located inside this directory.
 
 Clone the project - 
 
-`git clone https://github.com/fortnite/vore.git`
+`git clone https://github.com/ventusff/improved-nerfmm`
 
-Install the dependencies - Same as nerfmm.
+Install the dependencies - Same as [improved-nerfmm](https://github.com/ventusff/improved-nerfmm).
 
 ## Usage
 
