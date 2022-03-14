@@ -17,9 +17,9 @@ Install the dependencies - Same as nerfmm.
 This adds one file to the improved-nerfmm implementation - clustering.py is meant to cluster the dots, and uses the same dir arguments as the regular python files. Only 1 parameter is typically required.
 
 In addition, we added another three training flags:
-* '''model_init''' which get a path to the model we want to initial our scene on.
-* '''cam_init ''' which is the same as the former, but for the camera's parameters.
-* '''cam_init_ours ''' which initialized the camera to be in a position of an arch, in the shape of a quarter of a circle. This position aims to mimic the original camera path.
+* 'model_init' which get a path to the model we want to initial our scene on.
+* 'cam_init ' which is the same as the former, but for the camera's parameters.
+* 'cam_init_ours ' which initialized the camera to be in a position of an arch, in the shape of a quarter of a circle. This position aims to mimic the original camera path.
 
 ## Results
 
