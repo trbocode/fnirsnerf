@@ -8,7 +8,7 @@ The project report is in the pdf file located inside this directory.
 
 Clone the project - 
 
-`git clone https://github.com/ventusff/improved-nerfmm`
+`git clone https://github.com/trbocode/fnirsnerf.git`
 
 Install the dependencies - Same as [improved-nerfmm](https://github.com/ventusff/improved-nerfmm).
 
@@ -48,4 +48,4 @@ We organized our results in the following table:
 This was made by Amit Sandler and Tomer Porian, for a workshop in Computational Graphics.
 
 ## Contributing
-Help
+Feel free to fork this Project, if you wish to use it.
